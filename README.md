@@ -19,10 +19,11 @@ Don't worry, this is what open source is about, learn and grow together. You wil
 ### How to run this locally and develop in local environment
 #### Make sure you have git installed in your computer
 
-First, star this repository by clicking on star icon on upper right corner
-Second, clone this repository locally
-Third, choose an issue or create your own issue and wait for maintainers or owner to assign you
-Fourth, Make a branch and start coding!!
+
+<p>First, star this repository by clicking on star icon on upper right corner</p>
+<p>Second, clone this repository locally</p>
+<p>Third, choose an issue or create your own issue and wait for maintainers or owner to assign you</p>
+<p>Fourth, Make a branch and start coding!!</p>
 
 
 
@@ -33,6 +34,6 @@ Fourth, Make a branch and start coding!!
 
 
 #### Resources
-Javascript - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-HTML - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-CSS - [ShayHowe](https://learn.shayhowe.com/)
+<p><b>Javascript</b> - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</p>
+<p><b>HTML</b> - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)</p>
+<p><b>CSS</b> - [ShayHowe](https://learn.shayhowe.com/)</p>
